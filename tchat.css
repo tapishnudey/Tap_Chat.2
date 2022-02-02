@@ -1,0 +1,29 @@
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.logo_sup{
+    width: 30px;
+    height: 30px;
+}
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+#center{
+    align-items: center;
+}
+body{
+    background-image: url("background.png");
+}
+label{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+}
+#logout{
+    float: right;
+}
+.color_black{
+    color: black;
+}
